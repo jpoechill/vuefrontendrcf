@@ -2,6 +2,10 @@
 
 > My cat&#39;s meow Nuxt.js project
 
+## Screenshot
+
+![screen shot](/static/animation_clip.gif)
+
 ## Build Setup
 
 ``` bash
