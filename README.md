@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-![screen shot](/static/animation_clip.gif)
+![screen shot](/static/animation_clip.mov)
 
 ## Build Setup
 
